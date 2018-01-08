@@ -1,0 +1,13 @@
+#maven
+target/
+
+
+#build
+WechatJumpHelper/
+#mac
+.DS_Store
+
+#idea
+.idea/
+*.iml
+src/main/webapp/ueditor/jsp/upload/
